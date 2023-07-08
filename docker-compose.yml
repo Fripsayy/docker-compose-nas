@@ -245,4 +245,4 @@ services:
 
 networks:
   default:
-    name: docker-compose-nas
+    name: fuji-docker-network
